@@ -33,3 +33,6 @@ body{
 .navbar-dark{
     background: #512DAB;
 }
+#table-hover:hover{
+    color: #512DAB;
+}
